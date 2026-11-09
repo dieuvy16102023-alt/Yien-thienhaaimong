@@ -1,0 +1,6 @@
+{
+  "name": "Thiên Hà Ái Mộng - Yien",
+  "description": "Vũ trụ nhân vật, câu chuyện, trò chơi, cửa hàng và âm nhạc đồng bộ real-time cho tất cả người dùng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
